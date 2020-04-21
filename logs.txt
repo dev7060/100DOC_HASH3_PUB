@@ -1,0 +1,108 @@
+day 1: analysing of previous code. Fix backup related issues.
+day 2: analysing, checking, fixing previous code. Implement logs files reading.
+day 3: worked on data updation functionality. Plus checking of other previous functionality.
+day 4: employee data update and deletion
+day 5: worked on restore backup. Under projects section, add new-done, read previous:done
+day 6: staff create, browse previous, update, delete
+day 7: leave section, browse previous, add new entry, testing and fixes
+day 8: ems: attendance and leave functionality complete, Saphaaya: old features test, fix one bug, add password reset, add wifi password show
+day 9: Saphaaya: wifi connect WPA2PSK done, started wind_defender scans and updates 
+day 10: Saphaaya: add key view, clear clipboard, browse internet history, save to file etc.
+day 11: TAU : Java 0, 1, 2
+day 12: FCC, JSADSC. Basic JS: 26/110
+day 13: codechef problem VILLINE
+day 14: FCC, JSADSC. Basic JS: 45/110
+day 15: FCC, JSADSC. Basic JS: 91/110
+day 15: Session 2: FCC, JSADSC. Basic JS: 110/110
+day 16: FCC, JSADSC. ES6: 14/31
+day 16: Session 2: FCC, JSADSC. ES6: 22/31
+day 17: FCC, JSADSC, ES6: complete, RegEx: 10/33
+day 18: FCC, JSADSC, ES6: complete, RegEx: 25/33
+day 18: sesssion 2: FCC, JSADSC, RegEx: comp , dbug: comp
+day 19: FCC, JSADSC, ds: 8/20
+day 20: FCC, JSADSC, bsic ds done, basic algo script: 5/16
+day 20: session 2: FCC, JSADSC, bsic ds done, basic algo script: 10/16
+day 21: FCC, JSADSC, oops: 10/26
+day 21: session 2, FCC, JSADSC, oops: done
+day 22: dictGen: brute force dictionary list generator (support upto 5 chars).
+day 23: Worked on Space Eater : a malicious app to eat the C drive space.
+day 24: Finalised the sample/trial version of Management-Software
+day 25: FCC, JSADSC, Functional programming: done, Intermediate algo scripting: start
+day 26:  FCC, JSADSC, Intermediate algo scripting: 16/21
+day 27: Acutus bot code analysing and testing
+day 28: Worked on Hacking-Simulator
+day 28: session 2: worked on fake-blue-screen
+day 29: worked on jsonGen
+day 30: worked on the Reminder app
+day 31: continued working on the reminder app
+day 32: continued working on the reminder app: all functionalities working and tested. Final touch ups required.
+day 33: C++ programming practice (c to cpp programs)
+day 34: C++ programming practice
+day 35: C++ programming practice (classes and stuff)
+day 36: competitive programming practice with SF
+day 36: session 2: competitive programming practice with SF
+day 36: session 3: competitive programming practice with SF
+day 37: C++ programming practice (default arguments and inline functions)
+day 38: codechef.com problems solving using C
+day 39: codechef.com problems solving using C
+day 40: codechef.com problems solving using C
+day 41: complete reminder
+day 42: C++ programming practice (visibility levels, inline functions)
+day 43: C++ programming practice (making an outer function inline etc.)
+Day 44: c++ programming practice (static data members and member functions)
+day 45: C++ programming practice : array of objects, passing objects as arguments (by value and by reference)
+day 46: project euler problem solving
+day 47: C programming practice
+day 48: clock app done, to do list app in progress
+day 49: java practice (hello world, inputs, sum)
+day 50: to-do list app complete
+day 51: Botnet simulation
+day 52: C programming practice (email hacker prank)
+day 53: codechef submissions
+day 54: java programming practice
+day 55: codechef problem solving
+day 56: worked on saphaaya
+day 57: worked on saphaaya
+day 58: C programming practice, trying to make a game UI
+day 59: problem solutions Hackerearth
+day 60: Codechef problem solving
+day 61: Codechef problem solving
+day 62: C programming practice (email hacker prank)
+day 63: Sololearn javascript
+day 64: java programming practice
+day 65: java practice
+day 66: java programming GUI cacli netbeans
+day 67: C-IDE start work
+day 68: Work on C-IDE
+day 69: java programming practice
+day 70: java programming practice
+day 71: C programming practice
+day 72: codechef problem solving
+day 73: competitive programming
+day 74: codechef ZCO12001
+day 75: codechef ZCO12001
+day 76: bcs-405
+day 77: bcs-405
+day 78: bcs-405
+day 79: bcs-405
+day 80: C programming
+day 81: C programming
+day 82: C++ programming
+day 83: C++ prgramming
+day 85: codechef problem solving
+day 86: codechef problem solving
+day 87: codechef
+Day 88: C programming
+day 89: competitive programming
+day 90: java practice
+day 91: java practice
+day 92: Sololearn javascript practice
+day 93: javascript
+day 94: C++ practice
+day 95: C++ practice
+day95: session 2: covid19 tracker
+day 96: covid19 tracer
+day 97: continue previous prj 
+day 98: competitive programming
+day 99: diary app written in c
+day 100: diary app written in c
